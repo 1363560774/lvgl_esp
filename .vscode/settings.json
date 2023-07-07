@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lv_demo_widgets.h": "c",
+        "lv_demos.h": "c",
+        "lv_demo_benchmark.h": "c"
+    }
+}
